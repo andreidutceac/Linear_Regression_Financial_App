@@ -41,7 +41,7 @@ The third page of the app includes a reset feature, allowing users to clear the 
 - Accumulative Chart: Illustrates the overall savings progression.
 - Savings Forecast: Based on linear regression, this feature predicts the total savings at the end of the set period, taking into account current saving habits.
 
-![5](https://github.com/andreidutceac/Linear_Regression_Financial_App/assets/117718437/451b4413-2d1e-4c23-ba37-ae5585d7f97c)
+![5](https://github.com/andreidutceac/Linear_Regression_Financial_App/assets/117718437/2e329d96-5f41-4d43-8839-d1cb9d86be72)
 
 ### Example Usage
 
